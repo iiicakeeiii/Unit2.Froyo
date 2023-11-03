@@ -18,7 +18,7 @@ function getUserFlavors() {
  * @param {string[]} array an array of flavors.
  * @return {string} generated message.
  * */
-/
+
 function countMessage(array) {
     return `You've provided ${array.length} flavors`
 }
