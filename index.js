@@ -32,7 +32,7 @@ function getTotal(object) {
 /**
  * Generates a message on the total amount of flavors
  * requested by the user.
- * @param {object} object an array of flavors.
+ * @param {object} object an object of flavors.
  * @return {string} generated message.
  * */
 function countMessage(object) {
